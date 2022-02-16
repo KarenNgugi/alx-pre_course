@@ -11,3 +11,6 @@ And so on up to header 6.
 I also know how to write in *italics* or in **bold**.
 
 ```Coding in markdown is so fun.```
+
+
+To learn more on markdowns, [check this out](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
